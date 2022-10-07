@@ -21,8 +21,8 @@ It is very difficult to accurately
 guess an exact age from a single
 image because of factors like makeup,
 lighting, obstructions, and facial
-expressions. And so, We made this a
-classification problem instead of making
+expressions. And so, We are using 
+classification  instead of making
 it one of regression
 
 # The CNN Architecture
